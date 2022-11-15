@@ -1,16 +1,21 @@
-# assignment_2
+# Assignment_2
 
-A new Flutter project.
+## Assigment 2 - Screenshots
 
-## Getting Started
+### Output
 
-This project is a starting point for a Flutter application.
+Home Screen
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/80651219/201942212-ef1e7a8c-5889-454f-a89a-d8c0810cc999.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Call Button
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/80651219/201942362-bfe499ff-baa2-4d27-b6a4-99b481a7eaab.png)
+
+Route Button
+
+![image](https://user-images.githubusercontent.com/80651219/201942396-c2781f49-3950-43c2-a88f-b82340e26d2e.png)
+
+Share Button
+
+![image](https://user-images.githubusercontent.com/80651219/201942469-52a20d6c-3a5b-4a46-9d99-41956c93ef52.png)
